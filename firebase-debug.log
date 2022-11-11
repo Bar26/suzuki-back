@@ -1,0 +1,29 @@
+[debug] [2022-11-10T23:17:37.904Z] ----------------------------------------------------------------------
+[debug] [2022-11-10T23:17:37.906Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\barev\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-10T23:17:37.906Z] CLI Version:   11.16.0
+[debug] [2022-11-10T23:17:37.906Z] Platform:      win32
+[debug] [2022-11-10T23:17:37.906Z] Node Version:  v16.15.0
+[debug] [2022-11-10T23:17:37.907Z] Time:          Fri Nov 11 2022 01:17:37 GMT+0200 (שעון ישראל (חורף))
+[debug] [2022-11-10T23:17:37.907Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-10T23:17:37.914Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-10T23:17:37.914Z] > authorizing via signed-in user (barevryaf@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\barev\Desktop\suzuki-npx\backend
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
