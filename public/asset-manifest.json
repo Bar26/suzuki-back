@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.434eb26b.css",
-    "main.js": "/static/js/main.df655211.js",
+    "main.js": "/static/js/main.694f961e.js",
     "static/media/vitaraCatalog.pdf": "/static/media/vitaraCatalog.e842722840fb59728123.pdf",
     "static/media/swiftCatalog.pdf": "/static/media/swiftCatalog.827dbf7b3d395b12793b.pdf",
     "static/media/ignisCatalog.pdf": "/static/media/ignisCatalog.dd784a11e5e0cc736246.pdf",
@@ -15,10 +15,10 @@
     "static/media/almoni-neue-regular-aaa.woff": "/static/media/almoni-neue-regular-aaa.b532d049b2039feaef3b.woff",
     "index.html": "/index.html",
     "main.434eb26b.css.map": "/static/css/main.434eb26b.css.map",
-    "main.df655211.js.map": "/static/js/main.df655211.js.map"
+    "main.694f961e.js.map": "/static/js/main.694f961e.js.map"
   },
   "entrypoints": [
     "static/css/main.434eb26b.css",
-    "static/js/main.df655211.js"
+    "static/js/main.694f961e.js"
   ]
 }
