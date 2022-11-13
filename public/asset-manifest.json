@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0028939.css",
+    "main.css": "/static/css/main.434eb26b.css",
     "main.js": "/static/js/main.df655211.js",
     "static/media/vitaraCatalog.pdf": "/static/media/vitaraCatalog.e842722840fb59728123.pdf",
     "static/media/swiftCatalog.pdf": "/static/media/swiftCatalog.827dbf7b3d395b12793b.pdf",
@@ -14,11 +14,11 @@
     "static/media/Almoni DL AAA.ttf": "/static/media/Almoni DL AAA.3274272edf6444767cd6.ttf",
     "static/media/almoni-neue-regular-aaa.woff": "/static/media/almoni-neue-regular-aaa.b532d049b2039feaef3b.woff",
     "index.html": "/index.html",
-    "main.d0028939.css.map": "/static/css/main.d0028939.css.map",
+    "main.434eb26b.css.map": "/static/css/main.434eb26b.css.map",
     "main.df655211.js.map": "/static/js/main.df655211.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0028939.css",
+    "static/css/main.434eb26b.css",
     "static/js/main.df655211.js"
   ]
 }
